@@ -20,7 +20,7 @@ Sou um estudante apaixonado por tecnologia e resolução de problemas. Tenho uma
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Java` `TypeScript` |
+| **Linguagens** | `Java` `TypeScript` `Python` |
 | **Web** | `Angular` `HTML5` `CSS3` |
 | **Infra & Tools** | `Linux (Debian Based)` `Docker` `Git` `Bash` |
 | **Dados** | `MySQL` `MariaDB` |
