@@ -23,7 +23,7 @@ Sou estudante de **Sistemas para Internet no IFRN** (2º período) e busco const
 | **Observabilidade** | `OpenTelemetry`, `New Relic`, `Coralogix` |
 | **Linguagens** | `Python (Principal)`, `JavaScript`, `TypeScript`, `Java (Aprendiz)` |
 | **Infra & DevOps** | `Docker`, `Linux (Debian-based)`, `Bash Scripting`, `Git` |
-| **Web & Dados** | `Angular`, `Bootstrap`, `SQL (MySQL, MariaDB)` |
+| **Web & Dados** | `Angular`, `Bootstrap`, `SQL (MySQL, MariaDB e SQLite)` |
 
 ---
 
@@ -31,7 +31,7 @@ Sou estudante de **Sistemas para Internet no IFRN** (2º período) e busco const
 
 * 📈 **Observabilidade na Ageri:** Implementando e configurando instrumentação com **OpenTelemetry** e ferramentas de monitoramento.
 * 🐍 **Python:** Desenvolvendo scripts e APIs para automação e coleta de métricas.
-* ☕ **Java:** Iniciando a jornada acadêmica na linguagem através do IFRN.
+* ☕ **Java:** Iniciando a jornada acadêmica na linguagem.
 * 🐳 **Containers:** Refinando o uso de Docker para isolamento de ambientes de monitoramento.
 
 ---
