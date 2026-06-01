@@ -34,29 +34,30 @@ Essa combinação tem ampliado minha visão sobre como aplicações funcionam em
 
 ---
 
+### 🔍 Observabilidade
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![NewRelic](https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-00004D?style=flat-square)
+![Coralogix](https://img.shields.io/badge/Coralogix-00B5AD?style=flat-square)
+
+---
+
+### ⚙️ Frameworks e Plataformas
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
 ### 🌐 Fundamentos Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-### ⚙️ Frameworks e Plataformas
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
----
-
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 🔍 Observabilidade
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square)
-![NewRelic](https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
-![Coralogix](https://img.shields.io/badge/Coralogix-00B5AD?style=flat-square)
 
 ---
 
