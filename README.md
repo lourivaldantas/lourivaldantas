@@ -2,7 +2,7 @@
   <h1>Olá, eu sou o Lourival Dantas 👋</h1>
 
   <img src="https://img.shields.io/badge/Nível-Iniciante-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco-Angular%20%7C%20.NET%20%7C%20PostgreSQL-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Observabilidade%20%7C%20Grafana%20%7C%20New Relic%20%7C%20.NET-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Formação-TSI%20%7C%20IFRN-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Experiência-Trainee%20na%20Ageri-green?style=flat-square" />
 
@@ -15,9 +15,9 @@
 
 Sou estudante do **3º período de Tecnologia em Sistemas para Internet (IFRN)**.
 
-Atualmente, estou construindo minha base como desenvolvedor, com foco em desenvolvimento web utilizando **Angular no front-end** e **.NET no back-end**, integrando aplicações com **PostgreSQL**.
+Estou construindo minha base como desenvolvedor, com foco em observabilidade utilizando **Grafana**, **New Relic** e **Coralogix**. Paralelamente, busco aprimorar minhas habilidades em desenvolvimento de APIs em .NET.
 
-Paralelamente, atuo como **Trainee na Ageri**, onde tenho contato com práticas de **observabilidade e monitoramento de sistemas**, utilizando ferramentas e conceitos voltados à visibilidade e análise de aplicações.
+Atuo como **Trainee na Ageri**, onde tenho contato com práticas de **observabilidade e monitoramento de sistemas**, utilizando ferramentas e conceitos voltados à visibilidade e análise de aplicações.
 
 Essa combinação tem ampliado minha visão sobre como aplicações funcionam em produção, além do desenvolvimento em si.
 
@@ -62,10 +62,10 @@ Essa combinação tem ampliado minha visão sobre como aplicações funcionam em
 
 ## 📚 Em desenvolvimento
 
-- Estruturação de aplicações com **Angular**
-- Construção de APIs com **.NET**
-- Modelagem de dados com **PostgreSQL**
 - Fundamentos de **observabilidade aplicada a sistemas**
+- Construção de APIs com **.NET**
+- Estruturação de aplicações com **Angular**
+- Modelagem de dados com **PostgreSQL**
 - Consolidação de lógica de programação
 
 ---
